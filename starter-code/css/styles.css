@@ -12,3 +12,11 @@
   padding: 2%;
   min-height: 50px;
 }
+
+.full-stack {
+  background-color: #20c997;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
